@@ -1,1 +1,2 @@
 # OS-LAB
+man date
